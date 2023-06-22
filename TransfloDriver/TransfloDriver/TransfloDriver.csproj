@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TransfloDriver.Entities\TransfloDriver.Entities.csproj" />
+    <ProjectReference Include="..\TransfloDriver.DAL\TransfloDriver.DAL.csproj" />
+    <ProjectReference Include="..\TransfloDriver.Infrastructure\TransfloDriver.Infrastructure.csproj" />
+    <ProjectReference Include="..\TransfloDriver.BLL\TransfloDriver.BLL.csproj" />
+    <ProjectReference Include="..\TransfloDriver.DTO\TransfloDriver.DTO.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TransfloDriver", "TransfloDriver.csproj", "{CFB27789-336B-4ACA-956E-5E7DC5AEDC93}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TransfloDriver.DAL", "..\TransfloDriver.DAL\TransfloDriver.DAL.csproj", "{70889DDF-7FDB-4AB5-83BB-F5EB737F0C46}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TransfloDriver.Infrastructure", "..\TransfloDriver.Infrastructure\TransfloDriver.Infrastructure.csproj", "{01517EA8-11C3-4AED-B4C0-18447561C0F8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TransfloDriver.BLL", "..\TransfloDriver.BLL\TransfloDriver.BLL.csproj", "{524590AA-E72B-4C91-9451-096D2907356A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TransfloDriver.DTO", "..\TransfloDriver.DTO\TransfloDriver.DTO.csproj", "{FDA48DBE-B2F5-40EC-B47B-A823DEB002C8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TransfloDriver.Entities", "..\TransfloDriver.Entities\TransfloDriver.Entities.csproj", "{452FF37A-CC2D-4FA4-9D5D-325D53D164B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFB27789-336B-4ACA-956E-5E7DC5AEDC93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFB27789-336B-4ACA-956E-5E7DC5AEDC93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFB27789-336B-4ACA-956E-5E7DC5AEDC93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFB27789-336B-4ACA-956E-5E7DC5AEDC93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70889DDF-7FDB-4AB5-83BB-F5EB737F0C46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70889DDF-7FDB-4AB5-83BB-F5EB737F0C46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70889DDF-7FDB-4AB5-83BB-F5EB737F0C46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70889DDF-7FDB-4AB5-83BB-F5EB737F0C46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01517EA8-11C3-4AED-B4C0-18447561C0F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01517EA8-11C3-4AED-B4C0-18447561C0F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01517EA8-11C3-4AED-B4C0-18447561C0F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01517EA8-11C3-4AED-B4C0-18447561C0F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{524590AA-E72B-4C91-9451-096D2907356A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{524590AA-E72B-4C91-9451-096D2907356A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{524590AA-E72B-4C91-9451-096D2907356A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{524590AA-E72B-4C91-9451-096D2907356A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDA48DBE-B2F5-40EC-B47B-A823DEB002C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDA48DBE-B2F5-40EC-B47B-A823DEB002C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDA48DBE-B2F5-40EC-B47B-A823DEB002C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDA48DBE-B2F5-40EC-B47B-A823DEB002C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{452FF37A-CC2D-4FA4-9D5D-325D53D164B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{452FF37A-CC2D-4FA4-9D5D-325D53D164B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{452FF37A-CC2D-4FA4-9D5D-325D53D164B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{452FF37A-CC2D-4FA4-9D5D-325D53D164B6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D2524E39-95D0-4A94-A480-3BAB8037F32D}
+	EndGlobalSection
+EndGlobal

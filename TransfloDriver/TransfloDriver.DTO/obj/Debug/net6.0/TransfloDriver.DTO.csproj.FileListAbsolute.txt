@@ -1,0 +1,11 @@
+C:\elewa\TransfloDriver\TransfloDriver.DTO\bin\Debug\net6.0\TransfloDriver.DTO.deps.json
+C:\elewa\TransfloDriver\TransfloDriver.DTO\bin\Debug\net6.0\TransfloDriver.DTO.dll
+C:\elewa\TransfloDriver\TransfloDriver.DTO\bin\Debug\net6.0\ref\TransfloDriver.DTO.dll
+C:\elewa\TransfloDriver\TransfloDriver.DTO\bin\Debug\net6.0\TransfloDriver.DTO.pdb
+C:\elewa\TransfloDriver\TransfloDriver.DTO\obj\Debug\net6.0\TransfloDriver.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\elewa\TransfloDriver\TransfloDriver.DTO\obj\Debug\net6.0\TransfloDriver.DTO.AssemblyInfoInputs.cache
+C:\elewa\TransfloDriver\TransfloDriver.DTO\obj\Debug\net6.0\TransfloDriver.DTO.AssemblyInfo.cs
+C:\elewa\TransfloDriver\TransfloDriver.DTO\obj\Debug\net6.0\TransfloDriver.DTO.csproj.CoreCompileInputs.cache
+C:\elewa\TransfloDriver\TransfloDriver.DTO\obj\Debug\net6.0\TransfloDriver.DTO.dll
+C:\elewa\TransfloDriver\TransfloDriver.DTO\obj\Debug\net6.0\ref\TransfloDriver.DTO.dll
+C:\elewa\TransfloDriver\TransfloDriver.DTO\obj\Debug\net6.0\TransfloDriver.DTO.pdb

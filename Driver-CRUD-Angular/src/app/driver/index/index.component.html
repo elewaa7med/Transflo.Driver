@@ -1,0 +1,51 @@
+<section class="ftco-section">
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-md-6 text-center mb-5">
+        <h2 class="heading-section">All Driver</h2>
+      </div>
+    </div>
+    <div style="position: relative;height: 40px">
+      <div style="position: absolute;right: 0;">
+        <a class="btn btn-dark" routerLink="/driver/create" style="margin-right: 20px;">Create New Driver</a>
+        <form  (ngSubmit)="submit()" style="display: inline;">
+          <button class="btn btn-dark" type="submit">Create Random 100 Driver</button>
+        </form>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-12">
+        <div class="table-wrap">
+          <table class="table table-striped">
+            <thead>
+              <tr>
+                <th>#</th>
+                <th>First Name</th>
+                <th>Last Name</th>
+                <th>Email</th>
+                <th>phoneNumber</th>
+                <th>operation</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr *ngFor="let driver of GetDriver;let counter = index">
+                <td>{{ counter + 1 }}</td>
+                <td>{{ driver.firstName }}</td>
+                <td>{{ driver.lastName }}</td>
+                <td>{{ driver.email }}</td>
+                <td>{{ driver.phoneNumber }}</td>
+                <td>
+                  <a href="#" [routerLink]="['/driver/', driver.id, 'view']" class="btn btn-info"
+                    style="margin-right: 10px;">View</a>
+                  <a href="#" [routerLink]="['/driver/', driver.id, 'edit']" class="btn btn-primary"
+                    style="margin-right: 10px;">Edit</a>
+                  <a href="#" [routerLink]="['/driver/', driver.id, 'delete']" class="btn btn-danger">Delete</a>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>

@@ -1,0 +1,12 @@
+C:\elewa\TransflowDriver\TransflowDriver.DTO\bin\Debug\net6.0\TransflowDriver.DTO.deps.json
+C:\elewa\TransflowDriver\TransflowDriver.DTO\bin\Debug\net6.0\TransflowDriver.DTO.dll
+C:\elewa\TransflowDriver\TransflowDriver.DTO\bin\Debug\net6.0\ref\TransflowDriver.DTO.dll
+C:\elewa\TransflowDriver\TransflowDriver.DTO\bin\Debug\net6.0\TransflowDriver.DTO.pdb
+C:\elewa\TransflowDriver\TransflowDriver.DTO\obj\Debug\net6.0\TransflowDriver.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\elewa\TransflowDriver\TransflowDriver.DTO\obj\Debug\net6.0\TransflowDriver.DTO.AssemblyInfoInputs.cache
+C:\elewa\TransflowDriver\TransflowDriver.DTO\obj\Debug\net6.0\TransflowDriver.DTO.AssemblyInfo.cs
+C:\elewa\TransflowDriver\TransflowDriver.DTO\obj\Debug\net6.0\TransflowDriver.DTO.csproj.CoreCompileInputs.cache
+C:\elewa\TransflowDriver\TransflowDriver.DTO\obj\Debug\net6.0\TransflowDriver.DTO.dll
+C:\elewa\TransflowDriver\TransflowDriver.DTO\obj\Debug\net6.0\ref\TransflowDriver.DTO.dll
+C:\elewa\TransflowDriver\TransflowDriver.DTO\obj\Debug\net6.0\TransflowDriver.DTO.pdb
+C:\elewa\TransflowDriver\TransflowDriver.DTO\obj\Debug\net6.0\TransflowDriver.DTO.csproj.AssemblyReference.cache
